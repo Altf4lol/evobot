@@ -1,7 +1,7 @@
 {
-  "name": "EvoBot",
-  "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
-  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "name": "Probot",
+  "description": "Make a Professional Server! Welcome images, voice/text levels, reaction roles, logs,  moderation, and many many more!s",
+  "repository": "https://github.com/",
+  "logo": "https://cdn.discordapp.com/avatars/1029023828875161610/ca50c10a146ce5cccc94fcc113eaf4e6.png?size=256",
   "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
 }
